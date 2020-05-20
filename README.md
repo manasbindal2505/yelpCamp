@@ -1,18 +1,20 @@
-This is a project basically having a campground of different places and their ratings.
+# YELPCAMP
+
+ This is a project basically having a campground of different places and their ratings.
 
 Start the application by:
 
-https://github.com/manasbindal2505/yelpCamp.git
+$ git clone https://github.com/manasbindal2505/yelpCamp.git
 
 Then run the command in command line:
 
-npm install
+$ npm install
 
-cd yelpcamp
+$cd yelpcamp
 
 Then start the node server:
 
-node app.js
+$node app.js
 
 Move to the url:
 
